@@ -1,0 +1,23 @@
+@charset "UTF-8";
+#wrapper {
+  display:table;
+  width:700px;
+}
+#row {
+  display:table-row;
+}
+#first {
+  display:table-cell;
+  background-color:red;
+  width:200px;
+}
+#second {
+  display:table-cell;
+  background-color:blue;
+  width:300px;
+}
+#third {
+  display:table-cell;
+  background-color:#bada55;
+  width:200px;
+}
